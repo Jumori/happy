@@ -6,8 +6,7 @@ import '../styles/pages/landing.css';
 
 import logoImg from '../images/logo.svg';
 
-
-function Landing() {
+function Landing(): JSX.Element {
   return (
     <div id="page-landing">
       <div className="content-wrapper">
@@ -16,8 +15,6 @@ function Landing() {
         <main>
           <h1>Leve felicidade para o mundo</h1>
           <p>Visite orfanatos e mude o dia de muitas crianças.</p>
-
-          
         </main>
 
         <div className="location">

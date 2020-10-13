@@ -4,10 +4,8 @@ import './styles/global.css';
 
 import Routes from './routes';
 
-function App() {
-  return (
-    <Routes />
-  );
+function App(): JSX.Element {
+  return <Routes />;
 }
 
 export default App;
