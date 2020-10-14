@@ -1,0 +1,18 @@
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build version
+build/
+
+# Temp files
+uploads/*
+!uploads/.gitkeep
