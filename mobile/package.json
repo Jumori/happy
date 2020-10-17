@@ -40,7 +40,6 @@
     "eslint-import-resolver-typescript": "^2.3.0",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2",
-    "react-native-web": "~0.13.7",
     "typescript": "~3.9.5"
   },
   "private": true
